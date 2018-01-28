@@ -1,6 +1,7 @@
 ### Simply TINYURL service in node/expressjs
 
 How to start running this
+(assumes that you have mongodb installed. For eg. in mac, do `brew install mongodb` )
 
 ```
 npm install
