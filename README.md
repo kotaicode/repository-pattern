@@ -27,10 +27,7 @@ POST /
 The goal is to show the repository pattern.
 For that, please checkout the following files (in the same order)
 
-```
-./routes/tinyurls.js
-./controllers/tinyurls.js
-./repos/tinyurls.js
-./models/tinyurls.js
-```
-
+1. [routes/tinyurls.js](routes/tinyurls.js)
+2. [controllers/tinyurls.js](controllers/tinyurls.js)
+3. [repos/tinyurls.js](repos/tinyurls.js)
+4. [models/tinyurls.js](models/tinyurls.js)
